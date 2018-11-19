@@ -1,0 +1,45 @@
+body{
+  max-width:1300px;
+  min-width:1300px;
+  margin:10px;
+}
+.ugyldig {
+margin-left:40px;
+font-size:20px;
+color: red;
+}
+
+.gyldig {
+margin-left:50px;
+font-size:20px;
+color: green;
+}
+#livepassword{
+float:right;
+margin-right:550px;
+display:none;
+}
+#likepwd2{
+
+float:right;
+margin-right:700px;
+margin-top:175px;
+font-size:20px;
+color:green;
+display:none;
+}
+
+.hiddenFeil{
+display:none;
+color:red;
+}
+#mobilfeil2{
+display:none;
+margin-left:130px;
+color:red;
+}
+.feilmelding{
+	margin-left:60px;
+	color:red;
+	
+}
